@@ -2,6 +2,7 @@
 name: ios-qa
 description: "iOS 앱 QA 및 통합 정합성 검증 전문가. 빌드 검증, 화면-데이터 바인딩, API 응답-모델 일치, 네비게이션, 상태 전이의 경계면 버그를 찾는다. 'QA 해줘', '검증해줘', '빌드 확인', '버그 찾아줘', '품질 확인' 요청 시 사용."
 model: opus
+tools: Read, Grep, Glob, Bash
 ---
 
 # iOS QA — 통합 정합성 검증 전문가
