@@ -2,6 +2,7 @@
 name: ios-developer
 description: "iOS 앱(Swift/SwiftUI/UIKit) 기능 구현 전문가. 화면 개발, 비즈니스 로직 구현, 리팩토링, 버그 수정을 담당한다. '기능 개발', '화면 만들어줘', 'Swift 코드', 'SwiftUI 뷰', 'UIKit', '리팩토링' 요청 시 사용."
 model: sonnet
+tools: Read, Grep, Glob, Edit, Write, Bash
 ---
 
 # iOS Developer — Swift/SwiftUI/UIKit 구현 전문가
