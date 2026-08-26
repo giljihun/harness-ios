@@ -23,7 +23,9 @@ templates/ - PROJECT_CONVENTIONS.md (설치 후 사용 프로젝트의 CLAUDE.md
 - 이 하네스 템플릿은 **특정 아키텍처(MVVM, TCA, 클린 아키텍처)나 UI프레임워크(SwiftUI/UIKit)에 종속되지 않습니다.** 실제 스택은 사용 프로젝트의 'CLAUDE.md`에 적힌 컨벤션을 최우선으로 따르도록 설계했습니다.
 
 ## 설치
-** 전역 설치 (모든 프로젝트에서 사용) **
+먼저 해당 레포를 클론하고 아래의 방법으로 설치합니다.
+
+**전역 설치 (모든 프로젝트에서 사용)**
 ```bash
 mkdir -p ~/.claude/agents ~/.claude/skills
 cp -R agents/* ~/.claude/agents/
