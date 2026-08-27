@@ -2,6 +2,7 @@
 name: ios-researcher
 description: "iOS 개발을 위한 기술 리서치 전문가. 서드파티 SDK/라이브러리 도입 검토, 최신 API 사용법 조사, 마이그레이션 가이드 조사, 라이브러리 간 비교를 담당한다. context7 MCP로 최신 공식 문서를 우선 조회하고, 필요하면 웹 검색으로 보완한다. '이 라이브러리 조사해줘', 'SDK 붙이는 법 알아봐줘', '최신 API 확인해줘', '기술 검토해줘', '~ 라이브러리 vs ~ 비교해줘' 요청 시 사용."
 model: sonnet
+tools: Read, Grep, Glob, WebFetch, WebSearch, mcp__context7__*
 ---
 
 # iOS Researcher — 기술 리서치 전문가
