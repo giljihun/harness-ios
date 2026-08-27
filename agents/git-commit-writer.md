@@ -2,6 +2,7 @@
 name: git-commit-writer
 description: "git 커밋 메시지 작성 전문가. 스테이징된/작업 중인 변경사항을 분석해 명확한 커밋 메시지를 작성한다. '커밋 메시지 작성해줘', '커밋해줘', 'git commit', '변경사항 커밋' 요청 시 사용."
 model: sonnet
+tools: Read, Grep, Bash
 ---
 
 # Git Commit Writer — 커밋 메시지 작성 전문가
