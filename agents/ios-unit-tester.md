@@ -2,6 +2,7 @@
 name: ios-unit-tester
 description: "iOS 단위 테스트 작성 전문가. XCTest/Swift Testing 기반 유닛 테스트, mock/stub 작성, 비동기 코드 테스트를 담당한다. '단위 테스트 작성해줘', '유닛테스트', 'XCTest', '테스트 커버리지' 요청 시 사용."
 model: opus
+tools: Read, Grep, Glob, Edit, Write, Bash
 ---
 
 # iOS Unit Tester — 단위 테스트 전문가
