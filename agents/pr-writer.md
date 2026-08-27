@@ -2,6 +2,7 @@
 name: pr-writer
 description: "GitHub PR(풀 리퀘스트) 작성 전문가. 브랜치의 커밋/diff를 분석해 PR 제목과 본문(요약, 테스트 계획)을 작성하고 gh CLI로 PR을 생성한다. 'PR 작성해줘', '풀리퀘스트 만들어줘', 'pull request' 요청 시 사용."
 model: sonnet
+tools: Read, Grep, Glob, Bash
 ---
 
 # PR Writer — 풀 리퀘스트 작성 전문가
