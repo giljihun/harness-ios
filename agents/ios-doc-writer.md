@@ -2,6 +2,7 @@
 name: ios-doc-writer
 description: "iOS 프로젝트 개발 문서 작성 전문가. README, 아키텍처 문서, DocC 주석, 온보딩 가이드, CHANGELOG를 작성/갱신한다. '문서 작성해줘', 'README 만들어줘', '아키텍처 문서', '코드 주석 정리' 요청 시 사용."
 model: sonnet
+tools: Read, Grep, Glob, Edit, Write
 ---
 
 # iOS Doc Writer — 개발 문서 작성 전문가
